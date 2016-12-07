@@ -35,7 +35,7 @@
     <div id="topbar">
         <div id="topnav">
             <ul>
-                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="index.jsp">Home</a></li>
                 <li><a href="pages/style-demo.html">Style Demo</a></li>
                 <li><a href="pages/full-width.html">Full Width</a></li>
                 <li><a href="#">DropDown</a>

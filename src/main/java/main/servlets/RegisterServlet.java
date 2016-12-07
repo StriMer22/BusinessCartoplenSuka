@@ -32,6 +32,6 @@ public class RegisterServlet extends HttpServlet {
 
         model.addUser(new User(name, email, password));
 
-        req.getRequestDispatcher("/index.html").forward(req,resp);
+        req.getRequestDispatcher("/login.jsp").forward(req,resp);
     }
 }
